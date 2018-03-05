@@ -1,6 +1,9 @@
-#include "Employee.h"
+
 #include <iostream>
 #include <string>
+#include "stdafx.h"
+#include "Employee.h"
+
 using namespace std;
 
 Employee::Employee(string fName, string lName, int id, float rate) {

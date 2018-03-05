@@ -14,6 +14,7 @@ public:
 
 	int getNumberOfEmployees() const;
 	void setNumberOfEmployees(int amount);
+	float getPayRate();
 
 };
 

@@ -7,7 +7,7 @@
 using namespace std;
 
 class Employee {
-private:
+public:
 	/* Member variables*/
 	string firstName;
 	string lastName;
